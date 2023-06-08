@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hola, soy Gretty Mosquera</a> 👋</h1>
+<h1 align="center">Hi, I'm Gretty Mosquera</a> 👋</h1>
 </div>
 <img src="https://i.imgur.com/RvE2Q2z.png">
 
